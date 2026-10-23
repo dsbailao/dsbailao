@@ -13,10 +13,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dsbailao&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
-
 ## 👋 Sobre mim
 
 Sou desenvolvedor e profissional de tecnologia com mais de 10 anos de experiência, com forte atuação em:
